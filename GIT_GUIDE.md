@@ -1,7 +1,7 @@
 # 🧭 MapNest Git Workflow Guide
 
 Welcome to the MapNest development workflow!
-This document outlines how we use **Git and GitHub** to manage code, collaborate, and ship updates efficiently — following a professional team-style setup.
+This document outlines how we use **Git and GitHub** to manage code, collaborate, and ship updates efficiently — following a professional team-style setup. By following this guide, we ensure that our codebase is maintainable, scalable, and aligned with industry best practices.
 
 ---
 
